@@ -1,3 +1,6 @@
+ElAHESLAMi-patch-1
+"# word.py" 
+
 letters="Hello my dear. How are you?"
 num_l=letters
 print(len(num_l))
@@ -13,3 +16,4 @@ print(len(sentence.split(".")))
 sentence ="hello my dear .how are you"
 new_sentnce= sentence.replace("r", "P")
 print(new_sentnce)
+
